@@ -9,6 +9,9 @@ export default function FirstPost() {
           <a>Back to home</a>
         </Link>
       </h2>
+      <h2>
+          <a href="https://www.google.com/">Google</a>
+      </h2>
     </>
   )
 }
